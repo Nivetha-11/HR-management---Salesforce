@@ -22,11 +22,13 @@ We have created this HR Management prototype for our organisation using salesfor
     a. Candidates can view the job positions.
     b. Can create, edit and delete the job application.
     c. Can view the status of the application.
+    
 2. Employer (HR Team):
 
     a. Can create, view, edit and delete the job position.
     b. Can view, edit, and evaluate the job application and can either accept or reject the
     job application.
+    
         I. Accepted:
            Sends the job application to the Tech team for review.
         II. Rejected:
@@ -37,6 +39,7 @@ We have created this HR Management prototype for our organisation using salesfor
     a. Can create, view, edit and delete the job position.
     b. Can view, edit, and evaluate the job application and can either accept or reject
     the job application.
+    
         I. Accepted:
            Sends acceptance email to the candidate.
         II. Rejected:
